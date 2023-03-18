@@ -1,2 +1,2 @@
 # Whatsapp-development
-This was created when I watched LAO tutorials
+This repository was created when I watched LAO tutorials
